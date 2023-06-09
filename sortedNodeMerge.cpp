@@ -27,4 +27,4 @@ Node* sortedMerge(Node* head1, Node* head2)
         swap(head1, head2);
     }
     return res;
-} 
+}
